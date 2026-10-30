@@ -241,4 +241,4 @@ This repository serves as the official landing page for KSI Explorer. The softwa
 **Get the most recent version of KSI Explorer today!**
 
 ---
-**Last updated:** 2026-10-29 22:16:03 UTC
+**Last updated:** 2026-10-30 02:18:05 UTC
